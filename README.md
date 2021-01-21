@@ -11,7 +11,7 @@ Sou desenvolvedor frontend com conhecimentos em HTML5, CSS3, Javascript, Angular
 #### Cursos
 
 - [HTML,CSS e Javascript](https://www.caelum.com.br) - Curso voltado para criação de Sites.
-- [Diversos Cursos de FrontEnd](https://https://cursos.alura.com.br/category/front-end) - Cursos diversos de frontend
+- [Diversos Cursos de FrontEnd](https://cursos.alura.com.br/category/front-end) - Cursos diversos de frontend
 
 #### Experiência
 
