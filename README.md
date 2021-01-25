@@ -1,22 +1,30 @@
-# Olá, sou o Tiago! :facepunch:
+### Olá, sou o Tiago! :call_me_hand:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/TiagoHeld) [![linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/tiago-held/)](https://www.linkedin.com/in/tiago-held/)
+<a target="_blank" href="https://www.linkedin.com/in/tiago-held/"> <img align="left" alt="LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a target="_blank" href="https://github.com/TiagoHeld"> <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+
+<hr>
+
+**Me chamo Tiago Held**, sou desenvolvedor front-end, tenho 3 anos e meio de experiência com as seguintes tecnologias:
+
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
 
-### Sobre mim
 
-Sou desenvolvedor frontend com conhecimentos em HTML5, CSS3, Javascript, Angular e React.
 
-#### Cursos
 
-- [HTML,CSS e Javascript](https://www.caelum.com.br) - Curso voltado para criação de Sites.
-- [Diversos Cursos de FrontEnd](https://cursos.alura.com.br/category/front-end) - Cursos diversos de frontend
 
-#### Experiência
 
-- [cocreare](https://cocreare.com.br/academy.html) - Responsável pelo desenvolvimento de sites e Single Page Application em Angular e React.
-- [mseo](https://agenciamseo.com.br/) - Criava sites e personalizava temas premium na plataforma wordpress.
+
+
+
+
+
+
+
+#### 
+
+
 
 
 
