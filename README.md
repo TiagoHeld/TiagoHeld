@@ -2,10 +2,7 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/tiago-held/"> <img align="left" alt="LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a target="_blank" href="https://github.com/TiagoHeld"> <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
-
-
-
-<hr>
+***
 
 **Me chamo Tiago Held**, sou desenvolvedor front-end, tenho 3 anos e meio de experiência com as seguintes tecnologias:
 
