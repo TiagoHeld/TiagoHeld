@@ -1,6 +1,6 @@
 ### Olá, sou o Tiago! :call_me_hand:
 
-<a target="_blank" href="https://www.linkedin.com/in/tiago-held/"> <img align="left" alt="LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a target="_blank" href="https://github.com/TiagoHeld"> <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><br/><br/>
+<a target="_blank" href="https://www.linkedin.com/in/tiago-held/"> <img align="left" alt="LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a target="_blank" href="https://github.com/TiagoHeld"> <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><br/>
 
 ***
 
