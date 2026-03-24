@@ -1,58 +1,84 @@
-### Olá, sou o Tiago! :call_me_hand:
+# 👨‍💻 Tiago Held
 
-<a target="_blank" href="https://www.linkedin.com/in/tiago-held/"> <img align="left" alt="LinkdeIN" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a target="_blank" href="https://github.com/TiagoHeld"> <img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a><br/>
+Desenvolvedor Full Stack com experiência em aplicações web corporativas, atuando com Angular no front-end e Java com Spring Boot no back-end.
 
-***
+Tenho foco na construção de interfaces modernas, integração com APIs REST e desenvolvimento de regras de negócio robustas, sempre buscando qualidade, performance e manutenibilidade.
 
-Me chamo **Tiago Held**, sou desenvolvedor front-end, tenho 6 anos de experiência com as seguintes tecnologias:
+---
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code><code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+## 🚀 Tecnologias
 
+### 🖥️ Front-end
+- Angular
+- TypeScript
+- RxJS
+- PrimeNG
+- HTML5 / CSS3
 
+### ⚙️ Back-end
+- Java 11+
+- Spring Boot
+- JPA / Hibernate
+- APIs REST
 
+### 🗄️ Banco de dados
+- SQL Server
 
+### 🛠️ Ferramentas e práticas
+- Git / GitFlow
+- Maven
+- IntelliJ IDEA
+- Kibana (análise de logs)
+- Integração com APIs externas
+- Boas práticas de código (Clean Code)
 
+---
 
+## 💼 Experiência Profissional
 
+Atuo no desenvolvimento e manutenção de sistemas corporativos de grande porte, participando de todo o fluxo de desenvolvimento:
 
+- Desenvolvimento de interfaces web com Angular
+- Consumo e integração com APIs REST
+- Implementação de regras de negócio no back-end com Spring Boot
+- Criação e otimização de consultas com JPA / Hibernate
+- Correção de bugs e análise de logs em produção utilizando Kibana
+- Evolução de sistemas legados e implementação de novas funcionalidades
 
+---
 
+## 📌 Projetos em destaque
 
+### 🔹 Sistema Web Full Stack
+Aplicação completa com front-end em Angular e back-end em Spring Boot, incluindo:
+- CRUD completo
+- Integração com API REST
+- Organização em camadas (Controller, Service, Repository)
 
+### 🔹 API REST com Spring Boot
+- Estrutura profissional de projeto
+- Boas práticas de organização
+- Integração com banco de dados
 
+### 🔹 Projeto Front-end Angular
+- Consumo de APIs
+- Componentização
+- Gerenciamento de estado
 
+---
 
+## 📊 Estatísticas
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoHeld&show_icons=true&theme=default)
 
-#### 
+---
 
+## 📫 Contato
 
+- LinkedIn: https://www.linkedin.com/in/tiago-held-b6b02339b/
 
+---
 
+## 🚀 Objetivo
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Evoluir como desenvolvedor Full Stack, aprofundando conhecimentos em arquitetura de software, microsserviços e desenvolvimento de sistemas escaláveis.
